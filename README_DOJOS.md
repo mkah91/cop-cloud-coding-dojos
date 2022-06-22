@@ -59,7 +59,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ## 🚨 Rules
 
 - Active member
-    - has 5 minutes until we switch seats.
+    - has 5 minutes until we switch seats
     - is the only one speaking
     - has to share his screen and should try to express his thoughts to the others
     - Use TDD and do Baby Steps
@@ -89,7 +89,7 @@ We are going to use the already prepared VSCode Development Container, so everyb
 ## Mob Programming
 
 ![bg right 50%](https://mob.sh/logo.svg)
-To make working a little bit more fun, we are going to use [mob programming](https://mob.sh/). Mob is already install in the Development Container, so we can just use it:
+To make working a little bit more fun, we are going to use [mob programming](https://mob.sh/). To decide who is next you could e.g. use the [wheel of names](https://wheelofnames.com/). Mob is already installed in the Development Container, so we can just use it:
 
 ---
 ## Usage
