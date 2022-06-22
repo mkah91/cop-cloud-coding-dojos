@@ -61,12 +61,11 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - Active member
     - has 5 minutes until we switch seats.
     - is the only one speaking
-    - should try to express his thoughts to the others
+    - has to share his screen and should try to express his thoughts to the others
     - Use TDD and do Baby Steps
     - If stuck, should specifically ask the inactive members for help
 - Inactive members 
-    - should pay close attention to the coding 
-    - do **not** something else
+    - should pay close attention to the coding and do **not** do something else
     - only answer questions if explicitly asked
     
 ---
@@ -80,12 +79,20 @@ For the sake of time, today I selected a programming language and a kata. Next t
 We are going to use the already prepared VSCode Development Container, so everybody can just use their local machine to work on the code.
 
 ---
+## 💻 Why Go? 
+
+![bg right:50% 80%](https://i.ytimg.com/vi/446E-r0rXHI/maxresdefault.jpg)
+[🔥 Fireship Video](https://www.youtube.com/watch?v=446E-r0rXHI)
+
+---
 
 ## Mob Programming
 
+![bg right 50%](https://mob.sh/logo.svg)
 To make working a little bit more fun, we are going to use [mob programming](https://mob.sh/). Mob is already install in the Development Container, so we can just use it:
 
-### Usage
+---
+## Usage
 
 Make sure that the exports like in [env.sample](./env.sample) are set correctly. Then you can start your timer with:
 
@@ -99,8 +106,9 @@ Watch the next person in the loop and have some fun. If the Coding Dojo is done 
 
 > `mob done`
 
+---
 
-### Timer
+## Timer
 
 You can access the timer on this website:
 
