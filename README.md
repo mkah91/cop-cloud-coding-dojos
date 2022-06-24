@@ -50,3 +50,6 @@ Some things to try:
     - Run `mob start 5` to start the git handover tool for remote pair/mob programming.
     - See a timer got started at https://timer.mob.sh/itk-cloud-coding-dojo. Make sure your name appears in the History. Else check your enviroment variables again.
     - Run `mob stop` to stop the git handover tool (the timer will continue)
+
+## Go Cheat Sheat
+https://devhints.io/go
