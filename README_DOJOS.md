@@ -74,7 +74,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## 🚧 Preparation
 
-For the sake of time, today I selected a programming language and a kata. Next time we will let the team decide what we want to code and which language to use.
+For the sake of time, today I selected a programming language ([Go](https://go.dev/)) and a kata ([Numbers in Words](https://codingdojo.org/kata/NumbersInWords)). Next time we will let the team decide what we want to code and which language to use.
 
 We are going to use the already prepared VSCode Development Container, so everybody can just use their local machine to work on the code.
 
