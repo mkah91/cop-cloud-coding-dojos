@@ -1,8 +1,13 @@
 package convert
 
-import "fmt"
+var entry = []string{"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"}
 
-func DoSomethingWrong() bool {
-	fmt.Println("Add code to convert numbers in words!")
-	return false
+func ConvertNumberToWords(number int) string {
+	if number < 0 {
+		return `error`
+	}
+	if number <= 20 {
+		return entry[number]
+	}
+	return "error"
 }
