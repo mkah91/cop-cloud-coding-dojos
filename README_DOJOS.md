@@ -74,7 +74,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## 🚧 Preparation
 
-For the sake of time, today I selected a programming language and a kata. Next time we will let the team decide what we want code and which language to use.
+For the sake of time, today I selected a programming language and a kata. Next time we will let the team decide what we want to code and which language to use.
 
 We are going to use the already prepared VSCode Development Container, so everybody can just use their local machine to work on the code.
 
@@ -83,6 +83,7 @@ We are going to use the already prepared VSCode Development Container, so everyb
 
 ![bg right:50% 80%](https://i.ytimg.com/vi/446E-r0rXHI/maxresdefault.jpg)
 [🔥 Fireship Video](https://www.youtube.com/watch?v=446E-r0rXHI)
+[📖 Go Cheat Sheat](https://devhints.io/go)
 
 ---
 
